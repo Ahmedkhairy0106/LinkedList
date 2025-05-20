@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1747714849 source:d:\link\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"linkedlist.h"
+
+1747714779 d:\link\linkedlist.h
+
